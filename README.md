@@ -25,7 +25,7 @@
 ## 🛠️ التقنيات المستخدمة
 * **Language:** C++
 * **Database:** MySQL
-* **Tools:** (مثلاً: VS Code, MySQL Workbench)
+* **Tools:** (MySQL Workbench)
 
 ---
 
